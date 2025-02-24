@@ -1,0 +1,61 @@
+UserID,Timestamp,Action
+User_6,2024-01-01 12:30:17,View
+User_1,2024-01-01 12:46:09,View
+User_4,2024-01-01 13:06:21,Add to Cart
+User_1,2024-01-01 12:46:38,Purchase
+User_6,2024-01-01 12:29:57,Wishlist
+User_1,2024-01-01 12:46:08,Wishlist
+User_6,2024-01-01 12:30:20,Purchase
+User_7,2024-01-01 12:03:29,Purchase
+User_3,2024-01-01 12:07:57,Logout
+User_3,2024-01-01 12:07:00,View
+User_7,2024-01-01 12:03:04,Contact
+User_7,2024-01-01 12:03:27,Add to Cart
+User_6,2024-01-01 12:30:18,Add to Cart
+User_9,2024-01-01 13:10:00,Contact
+User_5,2024-01-01 12:07:00,Add to Cart
+User_8,2024-01-01 12:19:00,Add to Cart
+User_6,2024-01-01 12:30:45,Search
+User_5,2024-01-01 12:07:11,Purchase
+User_10,2024-01-01 13:26:12,Purchase
+User_8,2024-01-01 12:19:15,Purchase
+User_2,2024-01-01 12:34:30,View
+User_6,2024-01-01 12:30:44,View
+User_5,2024-01-01 12:07:20,Contact
+User_3,2024-01-01 12:07:56,View
+User_4,2024-01-01 13:06:17,Add to Cart
+User_8,2024-01-01 12:19:16,Wishlist
+User_2,2024-01-01 12:34:00,Contact
+User_3,2024-01-01 12:07:24,Contact
+User_9,2024-01-01 13:10:04,Purchase
+User_4,2024-01-01 13:05:58,Search
+User_4,2024-01-01 13:06:19,Contact
+User_8,2024-01-01 12:19:01,Add to Cart
+User_10,2024-01-01 13:26:02,Purchase
+User_2,2024-01-01 12:34:03,View
+User_5,2024-01-01 12:07:13,Add to Cart
+User_4,2024-01-01 13:06:37,View
+User_9,2024-01-01 13:10:34,Purchase
+User_10,2024-01-01 13:26:13,Add to Cart
+User_8,2024-01-01 12:19:13,Purchase
+User_1,2024-01-01 12:46:10,Add to Cart
+User_7,2024-01-01 12:03:31,Logout
+User_3,2024-01-01 12:07:23,Contact
+User_2,2024-01-01 12:34:02,View
+User_1,2024-01-01 12:46:19,Wishlist
+User_2,2024-01-01 12:34:29,Purchase
+User_10,2024-01-01 13:26:00,Contact
+User_9,2024-01-01 13:10:02,Add to Cart
+User_10,2024-01-01 13:26:14,Contact
+User_7,2024-01-01 12:03:02,Add to Cart
+User_5,2024-01-01 12:07:19,Wishlist
+User_7,2024-01-01 12:03:00,View
+User_1,2024-01-01 12:46:18,Purchase
+User_9,2024-01-01 13:10:32,Add to Cart
+User_4,2024-01-01 13:06:38,Contact
+User_3,2024-01-01 12:07:26,Add to Cart
+User_8,2024-01-01 12:19:03,Purchase
+User_5,2024-01-01 12:07:12,View
+User_6,2024-01-01 12:30:46,View
+User_9,2024-01-01 13:10:35,Wishlist
+User_1,2024-01-01 12:46:16,Purchase
